@@ -1,5 +1,5 @@
 package com.jojoldu.book.springboot;
-
+//뀨뺘뀨 깃 테스트
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

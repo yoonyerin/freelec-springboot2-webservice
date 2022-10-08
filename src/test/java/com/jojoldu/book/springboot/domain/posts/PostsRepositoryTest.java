@@ -11,7 +11,8 @@ import java.time.LocalDateTime;
 import java.util.List;
 
 import static org.assertj.core.api.Assertions.assertThat;
-
+//Test 코드가 변경되었따!!!
+//예린: 앗 아직 메인에 올릴 자신은 없는 나의 코드..
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class PostsRepositoryTest {
